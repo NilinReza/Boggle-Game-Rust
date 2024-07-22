@@ -1,6 +1,6 @@
 # Boggle Solver in Rust
 
-This is a Boggle solver implemented in Rust. It finds all possible words on a given Boggle board.
+This is a Boggle solver implemented in Rust. It finds all possible words on a given Boggle board using Vectors and a HashMap to store the Boggle board and the found words respectively.
 
 ## How it works
 
